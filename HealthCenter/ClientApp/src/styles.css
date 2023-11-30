@@ -1,0 +1,8 @@
+@import "~@ng-select/ng-select/themes/material.theme.css";
+
+body {
+  background-image: url("assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
