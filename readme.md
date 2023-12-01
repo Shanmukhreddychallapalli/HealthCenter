@@ -14,23 +14,23 @@
   </tr>
     <tr>
     <th>1</th>
-    <th>Shanmukhi reddy challapalli</th>
+    <th>Shanmukhi Reddy Challapalli</th>
     <th>R665P225</th>
   </tr>
   </tr>
     <tr>
-    <th>2</th>
+    <th>1</th>
     <th>Gopi Krishna Pokuri</th>
     <th>T475Q783</th>
   </tr>
   </tr>
     <tr>
-    <th>3</th>
+    <th>1</th>
     <th>Navya Sri Dokku</th>
-    <th>G599d648</th>
+    <th>G599D648</th>
   </tr>
 </table>
 
 # Project’s demo video
 
-Youtube Video <a href="" target="_blank"></a>
+Youtube Video <a href="https://youtu.be/ptvyQATIdJA target="\_blank">Explanation</a>
